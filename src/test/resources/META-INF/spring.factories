@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.\
+    thewhisperingbook.config.TestContainersSpringContextCustomizerFactory,com.\
+    thewhisperingbook.config.RedisTestContainersSpringContextCustomizerFactory
