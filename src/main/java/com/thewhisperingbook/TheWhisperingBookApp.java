@@ -59,7 +59,7 @@ public class TheWhisperingBookApp {
     }
 
     /**
-     * Main method, used to run the application.
+     * Main method, used to launch the application.
      *
      * @param args the command line arguments.
      */
